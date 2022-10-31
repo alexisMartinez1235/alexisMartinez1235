@@ -2,7 +2,7 @@
 I have been programming since 4 years in Esi Buceo with a desktop programming languages, the first two years with Java and the last year with VB.Net. Now i'm doing an Pinterest app with MERN Stack. In my free time i learn about machine learning and i have some project in my [kaggle profile](https://www.kaggle.com/amartinez111).
 ```js
 const me = {
-  code: [Pythonm Typescript, MySQL, Bash],
+  code: [Python, Django Framework, Typescript, MySQL, Bash],
   infraestructure: [NodeJS, MySQL], 
   tools: [Docker, VsCode, ThunderClient | Postman],
 }
