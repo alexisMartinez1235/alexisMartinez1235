@@ -1,10 +1,10 @@
-### Hi there 👋. My name is Alexis Martinez and i'm backend developer.
-I have been programming since 4 years in Esi Buceo with a desktop programming languages, the first two years with Java and the last year with VB.Net. Now i'm doing an Pinterest app with MERN Stack. In my free time i learn about machine learning and i have some project in my [kaggle profile](https://www.kaggle.com/amartinez111).
+### Hi, I am Alexis Martinez and i like machine learning and backend developer.
+  I have learning about machine learning, image procesing, reinforcement learning and data science, and i publish these projects in my [kaggle profile](https://www.kaggle.com/amartinez111) and on github.
 ```js
 const me = {
-  code: [Python, Django Framework, Typescript, MySQL, Bash],
+  code: [Python, Data Science, Tensorflow, Keras, Django Framework, Typescript, MySQL, Bash],
   infraestructure: [NodeJS, MySQL], 
-  tools: [Docker, VsCode, ThunderClient | Postman],
+  tools: [Kaggle, Docker, VsCode, ThunderClient | Postman],
 }
 ```
 <!--
