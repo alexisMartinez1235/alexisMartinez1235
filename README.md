@@ -1,4 +1,4 @@
-### Hi, I am Alexis Martinez and i like machine learning and backend developer.
+### Hi, I am Alexis Martinez and i like machine learning and backend development.
   I have learning about machine learning, image procesing, reinforcement learning and data science, and i publish these projects in my [kaggle profile](https://www.kaggle.com/amartinez111) and on github.
 ```js
 const me = {
